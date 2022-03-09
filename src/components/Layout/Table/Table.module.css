@@ -1,0 +1,19 @@
+.table {
+  overflow-x: auto;
+}
+
+.table__status-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.table__active-indicator {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: #20da5a;
+  display: block;
+  margin-right: 6px;
+}

@@ -1,0 +1,22 @@
+.options {
+  display: flex;
+  padding: 20px;
+}
+
+.options__button {
+  border: none;
+  background: none;
+}
+
+.option__selection-area {
+  min-width: 150px;
+}
+
+.option__download-btn {
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.options__icon {
+  margin-right: 5px;
+}

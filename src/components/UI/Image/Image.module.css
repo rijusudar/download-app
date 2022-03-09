@@ -1,0 +1,7 @@
+.image {
+  background-color: #fff;
+  display: block;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+}

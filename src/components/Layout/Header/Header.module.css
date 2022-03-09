@@ -1,0 +1,8 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: dodgerblue;
+  text-align: center;
+  color: #fff;
+}
